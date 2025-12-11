@@ -55,13 +55,12 @@ These visuals help stakeholders quickly identify where attrition is concentrated
 
 ---
 
-## 🚀 How to Use / Run This Project
+## 🚀 How to Run This Project
 
-1. Clone or download the repository.  
-2. Restore SQL (if you want to re-run analyses): run `/SQL/attrition_queries.sql` on your PostgreSQL instance that contains the `hr_data.hr_employee` table.  
-3. Open `/PowerBI/HR_Attrition_Dashboard.pbix` in Power BI Desktop.  
-4. If connecting to your own database, update the data source to point to your PostgreSQL server and refresh.  
-5. Explore the dashboard and use slicers to drill into departments, roles, age bands, and income bands.
+1. Clone the repository.
+2. Open `/PowerBI/HR_Attrition_Dashboard.pbix` in Power BI Desktop.
+3. Optionally restore SQL queries in PostgreSQL to rerun analysis.
+4. Explore visuals and slicers interactively.
 
 ---
 
@@ -84,8 +83,9 @@ CALCULATE(
 
 Attrition Rate % = DIVIDE([Total Attrition], [Total Employees])
 ```
+---
 
 🙋‍♂️ **Author**  
 Ayush Saini  
-Aspiring Data Analyst — Power BI | SQL | DAX  
+Aspiring Data Analyst  
 📧 ayushsaini8535@gmail.com  
