@@ -10,13 +10,13 @@ Goal: identify high-risk groups and provide actionable recommendations for reten
 
 - Imported HR dataset into PostgreSQL (`hr_data.hr_employee`)
 - Wrote SQL queries for baseline metrics and group-level analysis
-- Cleaned and transformed data in Power BI (Power Query)
+- Cleaned and transformed data in PowerBI (Power Query)
 - Created Age Band and Income Band groups
 - Built DAX measures for KPIs and rate calculations
-- Designed a corporate-style Power BI dashboard
+- Designed a corporate-style PowerBI dashboard
 - Produced business-focused insights and recommendations
 
-**Tools used:** PostgreSQL, SQL, Power BI, DAX
+**Tools used:** PostgreSQL, SQL, PowerBI, DAX
 
 ---
 
@@ -58,7 +58,7 @@ These visuals help stakeholders quickly identify where attrition is concentrated
 ## 🚀 How to Run This Project
 
 1. Clone the repository.
-2. Open `/PowerBI/HR_Attrition_Dashboard.pbix` in Power BI Desktop.
+2. Open `/PowerBI/HR_Attrition_Dashboard.pbix` in PowerBI Desktop.
 3. Optionally restore SQL queries in PostgreSQL to rerun analysis.
 4. Explore visuals and slicers interactively.
 
