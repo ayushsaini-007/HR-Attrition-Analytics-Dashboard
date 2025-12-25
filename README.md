@@ -29,7 +29,7 @@ HR-Attrition-Analytics-Dashboard/
 │── Images/  
 │   ├── dashboard_overview.png  
 │   └── department_chart.png  
-│── README.md  
+└──  README.md  
 
 ---
 
